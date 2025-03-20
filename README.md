@@ -2,26 +2,26 @@
 
 Dice Roll is an interactive, minimalist web-based dice game created to practice and enhance my HTML, CSS, and JavaScript skills. It allows users to roll a dice virtually, providing a clean and straightforward user experience.
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can experience the live version of this project here:
 
 https://diceroll-georgeb.netlify.app/
 
-## 📌 Technologies Used
+##  Technologies Used
 
 - HTML5 – Clean and semantic markup
 - CSS3 – Simple styling and responsive layout
 - JavaScript – Dynamic dice-rolling functionality
 
-## 🎯 Project Features
+##  Project Features
 
 - Simple and intuitive user interface
 - Interactive dice rolling animation
 - Responsive design suitable for all devices
 - Minimalistic styling for clarity and ease of use
 
-## 💻 Learning Objectives
+##  Learning Objectives
 
 This project was built primarily to:
 
@@ -30,7 +30,7 @@ This project was built primarily to:
 - Practice responsive and adaptive web design techniques
 - Improve interactive UI development skills
 
-## 🛠️ Setup & Installation
+##  Setup & Installation
 
 To view or edit this project locally:
 
@@ -46,7 +46,7 @@ To view or edit this project locally:
 
 3. Open the `index.html` file in your browser to start rolling the dice!
 
-## 📄 License
+##  License
 
 This project is open source and available for educational purposes.
 
